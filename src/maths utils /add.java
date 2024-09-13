@@ -7,7 +7,7 @@ public class add {
 
         int c = a + b;
 
-       // System.out.println("value of c is :" + c);
+        System.out.println("value of c is :" + c); //added in second snaps
 
     }
 
@@ -18,7 +18,7 @@ public class add {
 
         int c = a - b;
 
-        System.out.println("value of c is :" + c);
+       // System.out.println("value of c is :" + c); //commented in second snapshot 
 
     }
 
